@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "168097592121",
+    "project_id": "tamatem-e9ba3",
+    "storage_bucket": "tamatem-e9ba3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:168097592121:android:7c4feb9b146dd390c36ee8",
+        "android_client_info": {
+          "package_name": "com.ahmed.tmatem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "168097592121-6mih5ekt9u8itr3dtvnoevbr9hl37bqs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxJKRgFPfnLxj_0gpXdXKekd4oVMQj4dA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "168097592121-6mih5ekt9u8itr3dtvnoevbr9hl37bqs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
